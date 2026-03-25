@@ -1,0 +1,20 @@
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# Crash log files
+crash.log
+
+# Environment variables
+.env
+*.env
+
+# Keys and certificates
+*.pem
+*.key
+*.cert
+
+# IDE
+.vscode/
+.idea/
